@@ -29,6 +29,8 @@ fn main() {
 
 <details>
 
+Tell people about *inlay hints*!
+
 This slide demonstrates how the Rust compiler infers types based on constraints
 given by variable declarations and usages.
 

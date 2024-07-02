@@ -30,6 +30,29 @@ auto-completion and jump-to-definition functionality for [VS Code], [Emacs],
   sudo apt install cargo rust-src rustfmt
   ```
 
+
+**What are we installing?**
+- Rustup
+  - Rust Compiler
+  - Cargo - Package manager and build tool
+  - Formatter
+  - Linter
+  - Documentation
+
+- Rust Analyzer
+  - LSP for Rust
+
+Focus on the *why*. 
+
+Rust has different versions. That's annoying to install and manage => Rustup.
+
+People want to publish libraries, and then install them => Cargo
+
+Teams need standards => Formatter, Lots of conventions
+
+People make mistakes => Linter
+
+
 </details>
 
 [rust-analyzer]: https://rust-analyzer.github.io/

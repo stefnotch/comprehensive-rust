@@ -46,4 +46,11 @@ especially critical.
 The course does not cover defining macros, but a later section will describe use
 of derive macros.
 
+```rust
+println!("cat");
+
+let evil_cat = "cat {}";
+println!(evil_cat); // Error!
+```
+
 </details>

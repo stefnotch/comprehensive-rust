@@ -5,7 +5,7 @@ session: Day 2 Morning
 target_minutes: 180
 ---
 
-# Welcome to Day 2
+# Welcome to Day 1 - Afternoon
 
 Now that we have seen a fair amount of Rust, today will focus on Rust's type
 system:

@@ -1,6 +1,6 @@
 <!-- Keep first page as index.md to avoid giving it two names. -->
 
-[Welcome to Comprehensive Rust 🦀](index.md)
+[Welcome to Less Comprehensive Rust 🦀](index.md)
 
 - [Running the Course](running-the-course.md)
   - [Course Structure](running-the-course/course-structure.md)
@@ -34,7 +34,7 @@
     - [`for`](control-flow-basics/loops/for.md)
     - [`loop`](control-flow-basics/loops/loop.md)
   - [`break` and `continue`](control-flow-basics/break-continue.md)
-    - [Labels](control-flow-basics/break-continue/labels.md)
+    - [Skip - Labels](control-flow-basics/break-continue/labels.md)
   - [Blocks and Scopes](control-flow-basics/blocks-and-scopes.md)
     - [Scopes and Shadowing](control-flow-basics/blocks-and-scopes/scopes.md)
   - [Functions](control-flow-basics/functions.md)
@@ -42,16 +42,16 @@
   - [Exercise: Collatz Sequence](control-flow-basics/exercise.md)
     - [Solution](control-flow-basics/solution.md)
 
-# Day 1: Afternoon
+# Day 1: Morning (continued)
 
 - [Welcome](welcome-day-1-afternoon.md)
 - [Tuples and Arrays](tuples-and-arrays.md)
   - [Arrays](tuples-and-arrays/arrays.md)
   - [Tuples](tuples-and-arrays/tuples.md)
   - [Array Iteration](tuples-and-arrays/iteration.md)
-  - [Patterns and Destructuring](tuples-and-arrays/destructuring.md)
-  - [Exercise: Nested Arrays](tuples-and-arrays/exercise.md)
-    - [Solution](tuples-and-arrays/solution.md)
+  - [Skip - Patterns and Destructuring](tuples-and-arrays/destructuring.md)
+  - [Skip - Exercise: Nested Arrays](tuples-and-arrays/exercise.md)
+    - [Skip - Solution](tuples-and-arrays/solution.md)
 - [References](references.md)
   - [Shared References](references/shared.md)
   - [Exclusive References](references/exclusive.md)
@@ -63,22 +63,23 @@
   - [Named Structs](user-defined-types/named-structs.md)
   - [Tuple Structs](user-defined-types/tuple-structs.md)
   - [Enums](user-defined-types/enums.md)
-  - [Static](user-defined-types/static.md)
-  - [Const](user-defined-types/const.md)
-  - [Type Aliases](user-defined-types/aliases.md)
-  - [Exercise: Elevator Events](user-defined-types/exercise.md)
-    - [Solution](user-defined-types/solution.md)
+  - [Skip - Static](user-defined-types/static.md)
+  - [Skip - Const](user-defined-types/const.md)
+  - [Skip - Type Aliases](user-defined-types/aliases.md)
+  - [Skip - Exercise: Elevator Events](user-defined-types/exercise.md)
+    - [Skip - Solution](user-defined-types/solution.md)
+  - [Recap](user-defined-types/recap.md)
 
 ---
 
-# Day 2: Morning
+# Day 1: Afternoon
 
 - [Welcome](welcome-day-2.md)
 - [Pattern Matching](pattern-matching.md)
   - [Matching Values](pattern-matching/match.md)
   - [Destructuring Structs](pattern-matching/destructuring-structs.md)
   - [Destructuring Enums](pattern-matching/destructuring-enums.md)
-  - [Let Control Flow](pattern-matching/let-control-flow.md)
+  - [Skip - Let Control Flow](pattern-matching/let-control-flow.md)
   - [Exercise: Expression Evaluation](pattern-matching/exercise.md)
     - [Solution](pattern-matching/solution.md)
 - [Methods and Traits](methods-and-traits.md)
@@ -91,9 +92,12 @@
   - [Exercise: Generic Logger](methods-and-traits/exercise.md)
     - [Solution](methods-and-traits/solution.md)
 
-# Day 2: Afternoon
+# Day 2: Morning
 
 - [Welcome](welcome-day-2-afternoon.md)
+- [Macroquad Library](macroquad.md)
+  - [Getting Started](macroquad/getting-started.md)
+  - [Exercises](macroquad/exercises.md)
 - [Generics](generics.md)
   - [Generic Functions](generics/generic-functions.md)
   - [Generic Data Types](generics/generic-data.md)
